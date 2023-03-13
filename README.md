@@ -1,6 +1,9 @@
 ### Hi there 👋
+
+努力变强
+
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xuanzebi&count_private=true&show_icons=true&theme=calm" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
